@@ -142,3 +142,6 @@
    ```bash
    git clone https://github.com/kuchsk/skillfactory_realestate.git
    cd real-estate-valuation
+
+## Контакты
+kuchsk      @ gmail.com
