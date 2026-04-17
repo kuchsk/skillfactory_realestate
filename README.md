@@ -26,7 +26,7 @@
 
 ## Что внутри
 
-- **`dz_bLite_final_handcrafted_App2.ipynb`** – основной ноутбук с исследованием, feature engineering, обучением и сравнением моделей.
+- **`skillfactory_realestate.ipynb`** – основной ноутбук с исследованием, feature engineering, обучением и сравнением моделей.
 - **`app.py`** – веб-интерфейс на Streamlit для демонстрации работы модели.
 - **`requirements.txt`** – зависимости проекта.
 - **`data/real_estate_sample.csv`** – 1% семпл данных для быстрого тестирования.
