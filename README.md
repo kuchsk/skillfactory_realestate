@@ -143,13 +143,9 @@
    git clone https://github.com/kuchsk/skillfactory_realestate.git
    cd real-estate-valuation
 **Или**
-2. **Скачайте готовый real_estate_bundle.pkl поместите в папку output**
-   https://drive.google.com/file/d/1331H5hR_DN6HfPCn90XUu-S1GBf5mGRO/view?usp=sharing
-    **Скачайте**
-   app.py
-   run.bat
+2. **[Скачайте](https://drive.google.com/drive/folders/1Nxn0nKf0OW7Lfmn-Nm1RqxnbVJzQ7SaL?usp=sharing) готовый комплект в котором app.py, run.bat, output/real_estate_bundle.pkl**
     **Запустите**
-    run.bat или выполните в терминале streamlit run app.py
+    run.bat или выполните в терминале streamlit run app.py. Файл real_estate_bundle.pkl должен находиться в папке output
 
 ## Контакты
 kuchsk      @ gmail.com
