@@ -142,6 +142,14 @@
    ```bash
    git clone https://github.com/kuchsk/skillfactory_realestate.git
    cd real-estate-valuation
+**Или**
+2. **Скачайте готовый real_estate_bundle.pkl поместите в папку output**
+   https://drive.google.com/file/d/1331H5hR_DN6HfPCn90XUu-S1GBf5mGRO/view?usp=sharing
+    **Скачайте**
+   app.py
+   run.bat
+    **Запустите**
+    run.bat или выполните в терминале streamlit run app.py
 
 ## Контакты
 kuchsk      @ gmail.com
